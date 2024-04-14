@@ -23,3 +23,5 @@ Here is some example text on main to be stashed.
 Pull request test
 
 Ok here is yet another change
+
+Here's a main change for conflict
