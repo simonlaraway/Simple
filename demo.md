@@ -4,15 +4,15 @@ New line
 
 Another new line!
 
-Change made in local
+Change made in local!
 
-Yet another
+Yet another!
 
 Test for pull!!!
 
-Here's another local line.
+Here's another local line.!
 
-Change made in remote.
+Change made in remote.!
 
 And here's a remote line. I love this line!
 
