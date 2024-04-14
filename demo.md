@@ -2,7 +2,7 @@
 
 New line
 
-Another new line 
+Another new line!
 
 Yet another
 
