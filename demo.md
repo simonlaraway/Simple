@@ -4,6 +4,8 @@ New line
 
 Another new line!
 
+Change made in local
+
 Yet another
 
 Test for pull!!!
