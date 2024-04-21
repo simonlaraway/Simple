@@ -20,9 +20,8 @@ And here's a remote line. I love this line!
 
 Here is some example text on main to be stashed.
 
-Pull request tes
-Ok here is yet another change
+Pull request test
 
-Special for conflict test branch ok heres some more text fuckkckckkck
+Ok here is yet another change. THis is used for the rebase test.
 
-This is on the main branch.
+Special for conflict test brnch
