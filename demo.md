@@ -24,4 +24,4 @@ Pull request test
 
 Ok here is yet another change. THis is used for the rebase test.
 
-Special for conflict test brnch
+Special for conflict test branch
